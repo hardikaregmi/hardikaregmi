@@ -20,5 +20,6 @@ I enjoy building real software systems and learning how different technologies w
 
 📫 Contact
 Email: hardika.regmi123@gmail.com
-LinkedIn: linkedin.com/in/hardika-regmi-694730290
+LinkedIn: [linkedin.com/in/hardika-regmi-694730290](https://www.linkedin.com/in/hardika-regmi-694730290/)
+
 
