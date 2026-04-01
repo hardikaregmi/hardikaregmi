@@ -1,25 +1,45 @@
-👋 Hi, I'm Hardika
+# Hey, I'm Hardika
 
-I'm a Computer Science senior at the University of Southern Mississippi with a minor in Information Security.
+I'm a Computer Science student who likes building things that actually help people.
 
-I enjoy building real software systems and learning how different technologies work together. Most of my projects focus on full-stack development and backend systems.
+Right now, I'm focused on:
 
-🔧 Technologies I work with
-- Java
-- JavaScript
-- React / Next.js
-- Spring Boot
-- PostgreSQL
-- Redis
-- Docker
+* Backend development (Spring Boot, APIs)
+* Full-stack apps (Next.js, React)
+* Real-time systems (WebSockets)
+* Learning how systems actually work (not just tutorials)
 
-🚀 Projects
-- QuietHelp – anonymous real-time peer support platform with WebSockets
-- Chappell Hill Wine & Spirits – business website with inventory system
-- Taskify – Java task management application
+---
 
-📫 Contact
+## Projects I'm proud of
+
+**QuietHelp**
+Anonymous real-time peer support platform
+→ Built with Spring Boot, PostgreSQL, Redis, WebSockets
+
+**Roots (in progress)**
+A storytelling platform for immigrants to share real experiences
+→ Focused on meaning, identity, and human connection
+
+---
+
+## Tech I use (not everything, just what I actually touch)
+
+Java • Spring Boot • React • Next.js
+PostgreSQL • Redis • Docker
+TypeScript • REST APIs
+
+---
+
+## Currently working on
+
+* Making my projects production-ready
+* Writing cleaner backend code
+* Getting better at problem solving (DSA slowly… 😭)
+
+---
+
+## Let’s connect
+
 Email: hardika.regmi123@gmail.com
-LinkedIn: [linkedin.com/in/hardika-regmi-694730290](https://www.linkedin.com/in/hardika-regmi-694730290/)
-
-
+LinkedIn: https://www.linkedin.com/in/hardika-regmi-694730290/
