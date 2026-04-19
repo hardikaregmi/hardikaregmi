@@ -13,13 +13,14 @@ Right now, I'm focused on:
 
 ## Projects I'm proud of
 
-**QuietHelp**
-Anonymous real-time peer support platform
-→ Built with Spring Boot, PostgreSQL, Redis, WebSockets
+**QuietHelp**  
+Anonymous real-time peer support platform → Built with Spring Boot, PostgreSQL, Redis, WebSockets  
 
-**Roots (in progress)**
-A storytelling platform for immigrants to share real experiences
-→ Focused on meaning, identity, and human connection
+**TriageOS (HackPrinceton 2026)**  
+AI-powered triage dashboard for hospitals → Helps prioritize patients and notify doctors in real time  
+
+**Roots (in progress)**  
+A storytelling platform for immigrants to share real experiences → Focused on identity, meaning, and connection  
 
 ---
 
