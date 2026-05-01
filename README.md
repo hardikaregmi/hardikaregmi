@@ -36,7 +36,7 @@ TypeScript • REST APIs
 
 * Making my projects production-ready
 * Writing cleaner backend code
-* Getting better at problem solving (DSA slowly… 😭)
+* Getting better at problem solving (DSA slowly…)
 
 ---
 
