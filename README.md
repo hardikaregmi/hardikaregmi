@@ -1,46 +1,50 @@
-# Hey, I'm Hardika
+# Hi, I'm Hardika 👋
 
-I'm a Computer Science student who likes building things that actually help people.
+I'm a Computer Science senior at the University of Southern Mississippi, graduating in December 2026 with a minor in Information Security.
 
-Right now, I'm focused on:
+I'm interested in **trustworthy AI, machine learning, and healthcare applications**, particularly how AI can support neurological and mental health research.
 
-* Backend development (Spring Boot, APIs)
-* Full-stack apps (Next.js, React)
-* Real-time systems (WebSockets)
-* Learning how systems actually work (not just tutorials)
+### 🔬 Research interests
 
----
+- **EEG foundation models:** Currently studying how changes in EEG recording conditions and electrode configurations affect model robustness.
+- **Trustworthy AI:** Interested in building machine learning systems that remain reliable under real-world data shifts.
+- **LLM safety:** Exploring safety and jailbreak behavior in low-resource languages, including Nepali.
+- **Reinforcement learning:** Experience exploring model behavior under adversarial conditions.
 
-## Projects I'm proud of
+### 💻 Software development
 
-**QuietHelp**  
-Anonymous real-time peer support platform → Built with Spring Boot, PostgreSQL, Redis, WebSockets  
+I also enjoy building full-stack applications and working on open-source projects.
 
-**TriageOS (HackPrinceton 2026)**  
-AI-powered triage dashboard for hospitals → Helps prioritize patients and notify doctors in real time  
+**Languages:** Java, Python, Go, TypeScript, JavaScript, SQL
 
-**Roots (in progress)**  
-A storytelling platform for immigrants to share real experiences → Focused on identity, meaning, and connection  
+**Technologies:** Spring Boot, FastAPI, React, Next.js, PostgreSQL, Redis, Docker, Git
 
----
+### 🚀 Selected projects
 
-## Tech I use (not everything, just what I actually touch)
+**QuietHelp — Anonymous Peer Support Platform**
 
-Java • Spring Boot • React • Next.js
-PostgreSQL • Redis • Docker
-TypeScript • REST APIs
+A full-stack platform designed to help people connect anonymously through peer support sessions.
 
----
+**TriageOS — Hospital Triage Dashboard**
 
-## Currently working on
+A hackathon project exploring how software and AI can support patient check-ins and triage workflows.
 
-* Making my projects production-ready
-* Writing cleaner backend code
-* Getting better at problem solving (DSA slowly…)
+**Dapr — Open-Source Contribution**
 
----
+Contributed Go code and automated tests for detecting plaintext credential configurations.
 
-## Let’s connect
+[View my Dapr pull request](https://github.com/dapr/dapr/pull/11042)
 
-Email: hardika.regmi123@gmail.com
-LinkedIn: https://www.linkedin.com/in/hardika-regmi-694730290/
+**Roots — Storytelling Platform**
+
+A full-stack application for sharing personal stories about identity, migration, and belonging.
+
+### 🌱 What I'm working toward
+
+I hope to contribute to research and technology that makes AI systems more reliable and useful in healthcare, particularly in neurological and mental health applications.
+
+I'm also interested in opportunities where I can apply my software engineering skills while continuing to learn and grow.
+
+### 🔗 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/hardika-regmi-694730290/)
